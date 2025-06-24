@@ -16,7 +16,7 @@ This is a Django-based web application that provides personalized video recommen
 - SQLite
 - HTML/CSS + JavaScript
 
-## ⚙Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**
    ```bash
